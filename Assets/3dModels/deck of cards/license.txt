@@ -1,0 +1,4 @@
+This work is based on "Tycho Magnetic Anomaly" (https://sketchfab.com/3d-models/animated-playing-cards-read-below-76be59774ffe4576a36c1b6a5399b3fe)
+adaptations were made on the model and texture material of the 3d model.
+by Tycho Magnetic Anomaly (https://sketchfab.com/Tycho_Magnetic_Anomaly)
+licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

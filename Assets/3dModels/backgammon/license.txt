@@ -1,0 +1,9 @@
+Model Information:
+* title:	Backgammon
+* source:	https://sketchfab.com/3d-models/backgammon-7c86cf1acb4f4f7c9751c16101cc62ea
+* author:	tridiart https://sketchfab.com/tridiART
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+
+
