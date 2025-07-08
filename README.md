@@ -37,6 +37,7 @@ This will Create both the U#Script and the correspondent "Udon C# Program Asset"
 3- In The Udon Behaviour, choose the option "Udon C# Program Asset" in "Program Source".
 4- Drag and drop the Udon C# Program Asset that you created in the UdonSharp folder to the "Program Source" field.
 
+
 How to make a Game Object send event after interaction?
 This makes an object trig an event after button click:
 1- Add a "Udon Behaviour" scrip component in the game object.
@@ -44,12 +45,16 @@ This makes an object trig an event after button click:
 3- Drag and drop the Udon Graph Program Asset called "SendEventOnInteract"* to the "Program Source" field.
 *You can find this asset in the InteractCube in the UdonExampleScene
 4 - Fill out the variables "target" and "eventName" with your game object and Udon Behavior.
+
+
 How to spawn Game Objects/Prefabs?
 1- You can either instantiate it via a VRC Object Pool or Instantiate using a Udon Behavior Graph
 
+
 Saving and Loading
-VRChat can only handle two types of files - plain text and JSON. Everything is read and written as string. The provided data structure can not handle objects of any kind (must write a parser if that is what you need).
+- VRChat can only handle two types of files - plain text and JSON. Everything is read and written as string. The provided data structure can not handle objects of any kind (must write a parser if that is what you need).
 To read and write geometry - use basic meshes like cubes and spheres and save their transform data. References to materials (like in gltf) will not be possible at the current VRChat state.   
 
+
 Downloading Images
-Use a canvas and the build in loader. Put in the image path (ideally something like a github page).
+- Use a canvas and the build in loader. Put in the image path (ideally something like a github page).
