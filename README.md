@@ -31,6 +31,7 @@ How to make an Object "grabbable"?
 - Add "VRC Pickup" script component in it.
 
 How to add an U# script to an Object?
+
 1 - In the UdonSharp folder, click with the right button of the mouse and choose "Create" -> U# Script.
 This will Create both the U#Script and the correspondent "Udon C# Program Asset".
 2 - Add a "Udon Behaviour" scrip component in the game object.
@@ -39,6 +40,7 @@ This will Create both the U#Script and the correspondent "Udon C# Program Asset"
 
 
 How to make a Game Object send event after interaction?
+
 This makes an object trig an event after button click:
 1- Add a "Udon Behaviour" scrip component in the game object.
 2- In The Udon Behaviour, choose the option "Udon Graph Program Asset" in "Program Source".
